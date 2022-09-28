@@ -64,7 +64,7 @@ You can read more details about adding a feature in our [CONTRIBUTING GUIDELINES
 
 **Join us**
 
-Follow our Linkedin [our Linkedin](https://www.linkedin.com/company/apollo-os) and provide us any feedback on Apollo OS.
+Follow [our Linkedin](https://www.linkedin.com/company/apollo-os) and provide us any feedback on Apollo OS.
 
 ## License
 
@@ -73,7 +73,7 @@ Distributed under the MIT License. See
 
 ## Disclaimer
 
-"Apollo OS was created for educational purposes. It is not a hedge fund, nor a financial services provider. We have no clients and we DO NOT provide financial advise for anyone!
+Apollo OS was created for educational purposes. It is not a hedge fund, nor a financial services provider. We have no clients and we DO NOT provide financial advise for anyone!
 
 Trading in financial instruments involves high risks including the risk of losing some, or all, of your investment
 amount, and may not be suitable for all investors. Before deciding to trade in a financial instrument you should be fully
