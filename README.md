@@ -1,6 +1,3 @@
-# apollo
-Free Open Source software to analyse and filter through S&amp;P 500 companies
-
 [![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
@@ -92,4 +89,5 @@ APOLLO DOES NOT GUARANTEE THE ACCURACY AND/OR THE COMPLETENESS OF ANY DATA RELAT
 If you have any questions, ideas or interest regarding Apollo OS, please feel free to email me at dim.papakyriakopoulos@gmail.com
 
 
-
+[license-shield]: https://img.shields.io/github/license/Apollo-OS/apollo-os
+[license-url]: https://github.com/Apollo-OS/apollo-os/blob/main/LICENSE.txt
